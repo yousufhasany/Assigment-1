@@ -264,4 +264,7 @@ button:hover {
 .footer-menu li a:hover {
   color: #4e4cf2;
 }
+.copy-right{
+    text-align: center;
+}
 
